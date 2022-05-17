@@ -1,0 +1,170 @@
+﻿@charset "utf-8";
+
+/* Noto Sans */
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Noto Sans Light'), local('NotoSans-Thin'), url(../webfonts/notosans/NotoSans-Thin.eot);
+    src: url(../webfonts/notosans/NotoSans-Thin.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/notosans/NotoSans-Thin.woff2) format('woff2'),
+    url(../webfonts/notosans/NotoSans-Thin.woff) format('woff'),
+    url(../webfonts/notosans/NotoSans-Thin.ttf) format('truetype'),
+    url(../webfonts/notosans/NotoSans-Thin.svg) format('svg');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Noto Sans Light'), local('NotoSans-Light'), url(../webfonts/notosans/NotoSans-Light.eot);
+    src: url(../webfonts/notosans/NotoSans-Light.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/notosans/NotoSans-Light.woff2) format('woff2'),
+    url(../webfonts/notosans/NotoSans-Light.woff) format('woff'),
+    url(../webfonts/notosans/NotoSans-Light.ttf) format('truetype'),
+    url(../webfonts/notosans/NotoSans-Light.svg) format('svg');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Noto Sans Regular'), local('NotoSans-Regular'), url(../webfonts/notosans/NotoSans-Regular.eot);
+    src: url(../webfonts/notosans/NotoSans-Regular.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/notosans/NotoSans-Regular.woff2) format('woff2'),
+    url(../webfonts/notosans/NotoSans-Regular.woff) format('woff'),
+    url(../webfonts/notosans/NotoSans-Regular.ttf) format('truetype'),
+    url(../webfonts/notosans/NotoSans-Regular.svg) format('svg');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Noto Sans Medium'), local('NotoSans-Medium'), url(../webfonts/notosans/NotoSans-Medium.eot);
+    src: url(../webfonts/notosans/NotoSans-Medium.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/notosans/NotoSans-Medium.woff2) format('woff2'),
+    url(../webfonts/notosans/NotoSans-Medium.woff) format('woff'),
+    url(../webfonts/notosans/NotoSans-Medium.ttf) format('truetype'),
+    url(../webfonts/notosans/NotoSans-Medium.svg) format('svg');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(../webfonts/notosans/NotoSans-Bold.eot);
+    src: url(../webfonts/notosans/NotoSans-Bold.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/notosans/NotoSans-Bold.woff2) format('woff2'),
+    url(../webfonts/notosans/NotoSans-Bold.woff) format('woff'),
+    url(../webfonts/notosans/NotoSans-Bold.ttf) format('truetype'),
+    url(../webfonts/notosans/NotoSans-Bold.svg) format('svg');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Noto Sans Black'), local('NotoSans-Black'), url(../webfonts/notosans/NotoSans-Black.eot);
+    src: url(../webfonts/notosans/NotoSans-Black.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/notosans/NotoSans-Black.woff2) format('woff2'),
+    url(../webfonts/notosans/NotoSans-Black.woff) format('woff'),
+    url(../webfonts/notosans/NotoSans-Black.ttf) format('truetype'),
+    url(../webfonts/notosans/NotoSans-Black.svg) format('svg');
+}
+
+/* poppins */
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Poppins Thin'), local('Poppins-Thin'), url(../webfonts/poppins/Poppins-Thin.eot);
+    src: url(../webfonts/poppins/Poppins-Thin.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-Thin.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-Thin.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-Thin.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-Thin.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Poppins ExtraLight'), local('Poppins-ExtraLight'), url(../webfonts/poppins/Poppins-ExtraLight.eot);
+    src: url(../webfonts/poppins/Poppins-ExtraLight.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-ExtraLight.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-ExtraLight.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-ExtraLight.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-ExtraLight.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Poppins Light'), local('Poppins-Light'), url(../webfonts/poppins/Poppins-Light.eot);
+    src: url(../webfonts/poppins/Poppins-Light.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-Light.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-Light.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-Light.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-Light.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Poppins Regular'), local('Poppins-Regular'), url(../webfonts/poppins/Poppins-Regular.eot);
+    src: url(../webfonts/poppins/Poppins-Regular.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-Regular.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-Regular.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-Regular.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-Regular.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Poppins Medium'), local('Poppins-Medium'), url(../webfonts/poppins/Poppins-Medium.eot);
+    src: url(../webfonts/poppins/Poppins-Medium.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-Medium.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-Medium.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-Medium.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-Medium.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(../webfonts/poppins/Poppins-SemiBold.eot);
+    src: url(../webfonts/poppins/Poppins-SemiBold.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-SemiBold.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-SemiBold.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-SemiBold.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-SemiBold.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Poppins Bold'), local('Poppins-Bold'), url(../webfonts/poppins/Poppins-Bold.eot);
+    src: url(../webfonts/poppins/Poppins-Bold.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-Bold.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-Bold.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-Bold.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-Bold.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Poppins ExtraBold'), local('Poppins-ExtraBold'), url(../webfonts/poppins/Poppins-ExtraBold.eot);
+    src: url(../webfonts/poppins/Poppins-ExtraBold.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-ExtraBold.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-ExtraBold.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-ExtraBold.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-ExtraBold.svg) format('svg');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Poppins Black'), local('Poppins-Black'), url(../webfonts/poppins/Poppins-Black.eot);
+    src: url(../webfonts/poppins/Poppins-Black.eot?#iefix) format('embedded-opentype'),
+    url(../webfonts/poppins/Poppins-Black.woff2) format('woff2'),
+    url(../webfonts/poppins/Poppins-Black.woff) format('woff'),
+    url(../webfonts/poppins/Poppins-Black.ttf) format('truetype'),
+    url(../webfonts/poppins/Poppins-Black.svg) format('svg');
+}
