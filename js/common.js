@@ -1,20 +1,4 @@
-// 메뉴 버튼
-var menuOpen = false;
-$(".btn_menu").on("click", function(e){
-    if(menuOpen == false) {
-        $("body").addClass("not_scroll");
-        $(this).addClass("active");
-        $(".nav_area").addClass("active");
-        $(".nav_list_box").delay(200).fadeIn(150);
-        menuOpen = true;
-    } else{
-        $("body").removeClass("not_scroll");
-        $(this).removeClass("active");
-        $(".nav_area").removeClass("active");
-        $(".nav_list_box").fadeOut(150);
-        menuOpen = false;
-    }
-});
+
 
 // 같은 페이지 링크 처리
 $(".m_list li a").click(function() {
