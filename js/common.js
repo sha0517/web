@@ -1,14 +1,4 @@
 
-
-// 같은 페이지 링크 처리
-$(".m_list li a").click(function() {
-    $("body").removeClass("not_scroll");
-    $(".btn_menu").removeClass("active");
-    $(".nav_area").removeClass("active");
-    $(".nav_list_box").fadeOut(150);
-    menuOpen = false;
-});
-
 // 헤더 스크롤
 var headerScroll = 0; 
 var isScrollTop;
