@@ -1,25 +1,4 @@
-@font-face {
-    font-family: 'Noto Sans KR';
-    font-style: normal;
-    font-weight: 100;
-    src: local('Noto Sans Light'), local('NotoSans-Thin'), url(../webfonts/notosans/NotoSans-Thin.eot);
-    src: url(../webfonts/notosans/NotoSans-Thin.eot?#iefix) format('embedded-opentype'),
-    url(../webfonts/notosans/NotoSans-Thin.woff2) format('woff2'),
-    url(../webfonts/notosans/NotoSans-Thin.woff) format('woff'),
-    url(../webfonts/notosans/NotoSans-Thin.ttf) format('truetype'),
-    url(../webfonts/notosans/NotoSans-Thin.svg) format('svg');
-}
-@font-face {
-    font-family: 'Noto Sans KR';
-    font-style: normal;
-    font-weight: 300;
-    src: local('Noto Sans Light'), local('NotoSans-Light'), url(../webfonts/notosans/NotoSans-Light.eot);
-    src: url(../webfonts/notosans/NotoSans-Light.eot?#iefix) format('embedded-opentype'),
-    url(../webfonts/notosans/NotoSans-Light.woff2) format('woff2'),
-    url(../webfonts/notosans/NotoSans-Light.woff) format('woff'),
-    url(../webfonts/notosans/NotoSans-Light.ttf) format('truetype'),
-    url(../webfonts/notosans/NotoSans-Light.svg) format('svg');
-}
+
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
