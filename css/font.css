@@ -1,26 +1,10 @@
 
-@font-face {
-    font-family: 'Noto Sans KR';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Noto Sans Regular'), local('NotoSans-Regular'), url(../webfonts/notosans/NotoSans-Regular.eot);
-    src: url(../webfonts/notosans/NotoSans-Regular.eot?#iefix) format('embedded-opentype'),
-    url(../webfonts/notosans/NotoSans-Regular.woff2) format('woff2'),
-    url(../webfonts/notosans/NotoSans-Regular.woff) format('woff'),
-    url(../webfonts/notosans/NotoSans-Regular.ttf) format('truetype'),
-    url(../webfonts/notosans/NotoSans-Regular.svg) format('svg');
-}
-@font-face {
-    font-family: 'Noto Sans KR';
-    font-style: normal;
-    font-weight: 500;
-    src: local('Noto Sans Medium'), local('NotoSans-Medium'), url(../webfonts/notosans/NotoSans-Medium.eot);
-    src: url(../webfonts/notosans/NotoSans-Medium.eot?#iefix) format('embedded-opentype'),
-    url(../webfonts/notosans/NotoSans-Medium.woff2) format('woff2'),
-    url(../webfonts/notosans/NotoSans-Medium.woff) format('woff'),
-    url(../webfonts/notosans/NotoSans-Medium.ttf) format('truetype'),
-    url(../webfonts/notosans/NotoSans-Medium.svg) format('svg');
-}
+
+
+
+
+
+
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
