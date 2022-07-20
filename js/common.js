@@ -1,6 +1,4 @@
 
-// 헤더 스크롤
-var headerScroll = 0; 
 var isScrollTop;
 $(window).on("scroll", function(){
     isScrollTop =  $(window).scrollTop();
