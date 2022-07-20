@@ -5,7 +5,6 @@
 
 /* introducing oz */
 .main_sec03{margin-top:120px; padding:0 20px; display:inline-block;}
-.main_sec03{margin-top:120px; padding:0 20px; display:block;}
 .main_sec03 .intro_box{width:1200px; margin:60px auto; padding:20px 0; background:url(../images/main/bg_intro.png) right top no-repeat;}
 .main_sec03 .intro_box dl{}
 .main_sec03 .intro_box dl dt{margin-top:35px; font-size:20px; font-weight:700; color:#333;}
