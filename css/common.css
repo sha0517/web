@@ -1,19 +1,5 @@
 ﻿@charset "utf-8";
 
-/*** header ***/
-
-
-/*** main ***/
-h2.hd_main{padding:0 20px; font-size:30px; text-align:center;}
-.desc_main{display:block; margin-top:20px; padding:0 20px; font-size:20px; color:#666; text-align:center;}
-/* visual */
-.main_visual{max-width:1920px; height:800px; margin:0 auto; padding:0 20px; background:url(../images/main/bg_visual01.png) no-repeat; background-position:top center; background-size:cover;}
-.main_visual .visual_inner{width:1200px; margin:0 auto; padding-top:220px;}
-.main_visual .visual_inner p{color:#fff; text-align:center;}
-.main_visual .visual_inner p.tit{font-size:50px; font-weight:300;}
-.main_visual .visual_inner p.tit strong{display:block; font-size:60px; font-weight:600;}
-.main_visual .visual_inner p.desc{margin-top:40px; font-size:24px;}
-.main_visual .visual_inner .started{display:block; width:215px; margin:80px auto 0; padding:24px 0; border:solid 2px #fff; background-color:rgba(0, 0, 0, 0.26); font-size:24px; color:#fff; text-align:center; -webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px; -webkit-box-shadow:8px 14px 22px 0 rgba(0, 0, 0, 0.26); box-shadow:8px 14px 22px 0 rgba(0, 0, 0, 0.26);}
 /* brand */
 .main_sec01{margin:120px auto 0; padding:0 20px;}
 .main_sec01 .list{width:1200px; height:500px; margin:60px auto 0;}
