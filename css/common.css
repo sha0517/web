@@ -1,35 +1,6 @@
 ﻿@charset "utf-8";
 
 
-/* price */
-.main_sec02{margin-top:60px; padding:80px 20px; background-color:#f3f3f6;}
-.main_sec02 .tab_box{position:relative; width:1200px; margin:40px auto 0;}
-.main_sec02 .tab_box ul{font-size:0; text-align:center;}
-.main_sec02 .tab_box ul li{display:inline-block; position:relative; margin:0 20px; padding-bottom:5px; font-family:'Noto Sans KR',Arial,'Malgun Gothic',sans-serif; font-size:24px; font-weight:500; color:#666; cursor:pointer; -webkit-transition:color .2s ease; transition:color .2s ease;}
-.main_sec02 .tab_box ul li.active,.main_sec02 .tab_box ul li:hover{color:#73308a;}
-.main_sec02 .tab_box ul li:after{content:''; display:block; position:absolute; left:50%; bottom:0; width:0; height:2px; background-color:#73308a; transform:translateX(-50%); -webkit-transition:width .2s ease; transition: width .2s ease;}
-.main_sec02 .tab_box ul li.active:after,.main_sec02 .tab_box ul li:hover:after{width:100%;}
-.main_sec02 .tab_box .more{position:absolute; top:10px; right:0; line-height:1; padding-right:15px; background:url(../images/main/ic_more.svg) center right no-repeat; font-size:14px; color:#666;}
-.main_sec02 .list_box{width:1200px; margin:40px auto 0;}
-.main_sec02 .list_box ul:after{content:''; display:block; clear:both;}
-.main_sec02 .list_box ul li{float:left; position:relative; width:220px; height:105px; margin-left:25px; background-color:#fff; -webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px;}
-.main_sec02 .list_box ul li:first-child{margin-left:0;}
-.main_sec02 .list_box ul li a{display:block; padding:8px 15px; font-size:12px; font-weight:500; color:#666;}
-.main_sec02 .list_box ul li a .name{}
-.main_sec02 .list_box ul li a .name:after{content:''; display:block; clear:both;}
-.main_sec02 .list_box ul li a .name .name_all{float:left;}
-.main_sec02 .list_box ul li a .name .name_all span:first-child{font-weight:700; color:#222;}
-.main_sec02 .list_box ul li a .name .name_all span:last-child{display:inline-block; overflow:hidden; width:50px; margin-left:2px; white-space:nowrap; vertical-align:top; text-overflow:ellipsis;}
-.main_sec02 .list_box ul li a .name .price{float:right; font-family:'Noto Sans KR',Arial,'Malgun Gothic',sans-serif; font-weight:700;}
-.main_sec02 .list_box ul li a .tether{display:block; margin-top:5px;}
-.main_sec02 .list_box ul li a .rate{display:inline-block; width:74px; height:24px; line-height:24px; margin-top:24px; color:#fff; text-align:center;}
-.main_sec02 .list_box ul li a.up .price{color:#1ca2b4;}
-.main_sec02 .list_box ul li a.up .rate{background-color:#56bcca;}
-.main_sec02 .list_box ul li a.down .price{color:#e2497e;}
-.main_sec02 .list_box ul li a.down .rate{background-color:#e96995;}
-.main_sec02 .list_box ul li a .chart{position:absolute; right:0; bottom:0;}
-.main_sec02 .list_box.new_slide{display:none;}
-.main_sec02 .slide_paging{display:none;}
 /* introducing oz */
 .main_sec03{margin-top:120px; padding:0 20px;}
 .main_sec03 .intro_box{width:1200px; margin:60px auto; padding:20px 0; background:url(../images/main/bg_intro.png) right top no-repeat;}
