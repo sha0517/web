@@ -1,5 +1,8 @@
 
 var isScrollTop;
+
+
+console.log("hello");
 $(window).on("scroll", function(){
     isScrollTop =  $(window).scrollTop();
     // DOWN
